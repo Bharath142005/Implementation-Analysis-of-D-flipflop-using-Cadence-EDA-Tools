@@ -47,9 +47,9 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
 
 
+![vlsi exp 3-1](https://github.com/user-attachments/assets/ed7eeb8b-458a-4ad3-ac68-472cc6e2b5f1)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -66,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+
+![vlsi exp3-2](https://github.com/user-attachments/assets/331db68e-1c73-4e2c-8440-50b75e17ac9e)
 
 
 iv)	Creating the new test cell view
@@ -79,7 +80,7 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![vlsi exp3 -3](https://github.com/user-attachments/assets/25bccbdf-91ee-48d4-af07-310f851d5498)
 
 
  
@@ -94,14 +95,17 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
+
+![vlsi exp 3-4](https://github.com/user-attachments/assets/51a37516-9111-4be0-9f10-83158367a4b9)
 
 
 For Transient Analysis Settings and Output
  
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+ ![vlsi exp3-5](https://github.com/user-attachments/assets/4c92811b-5ee2-45b4-b451-3a4d521cb2b7)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+
+
+![vlsi exp 3-6](https://github.com/user-attachments/assets/cef025e5-c183-4519-b946-88f4111e908e)
 
 
 Results:
